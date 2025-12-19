@@ -45,7 +45,7 @@ The analysis yielded crucial insights by applying complex SQL functions (date fu
 
 •	**Total Revenue:** Calculated and presented total revenue, formatted in **INR Million**.
 
-•**	Average Dish Price:** Determined the average transaction value.
+•	**Average Dish Price:** Determined the average transaction value.
 
 •	**Average Rating:** Calculated the average rating across all orders.
 
